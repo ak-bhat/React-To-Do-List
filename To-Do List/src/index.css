@@ -6,6 +6,8 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   margin-top: 100px;
+  padding: 20px;
+  background-color: black;
 }
 
 h1{
@@ -22,6 +24,7 @@ button{
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.5s ease;
+  margin: 20px;
 }
 .add-button{
   background-color: hsl(120, 95%, 48%);
